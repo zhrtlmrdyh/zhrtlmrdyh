@@ -1,6 +1,7 @@
+<img align="right" alt="coding" width="400" src="https://png.pngtree.com/thumb_back/fw800/background/20230524/pngtree-female-programmer-in-front-of-computer-screens-image_2672427.jpg">
 <h1 align="center">Hi 🙌🏻, I'm Zahratul Mardiyah</h1>
 <h3 align="center">A passionate software developer from Indonesia</h3>
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-photo/programming-background-collage_23-2149901790.jpg?w=900&t=st=1720977191~exp=1720977791~hmac=22740fd7de115ac94a6d616cba8d8d132f41d0112ad904af28b1ca54e9fb83e6">
+
 
 - 👩🏻‍🎓 I'm currently graduated from **Politeknik Negeri Bandung**
 
