@@ -1,7 +1,8 @@
-<img align="right" alt="coding" width="400" src="https://png.pngtree.com/thumb_back/fw800/background/20230524/pngtree-female-programmer-in-front-of-computer-screens-image_2672427.jpg">
 <h1 align="center">Hi 🙌🏻, I'm Zahratul Mardiyah</h1>
 <h3 align="center">A passionate software developer from Indonesia</h3>
-
+<div align="center">
+  <img alt="coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+</div>
 
 - 👩🏻‍🎓 I'm currently graduated from **Politeknik Negeri Bandung**
 
