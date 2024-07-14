@@ -4,6 +4,7 @@
   <img alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </div>
 
+
 - 👩🏻‍🎓 I'm currently graduated from **Politeknik Negeri Bandung**
 
 - 🌱 I’m currently learning **Flutter, ReactJS, Laravel, Manual and Automation Testing, and many others**
