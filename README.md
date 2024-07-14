@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🙌🏻, I'm Zahratul Mardiyah</h1>
 <h3 align="center">A passionate software developer from Indonesia</h3>
-<img alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - 👩🏻‍🎓 I'm currently graduated from **Politeknik Negeri Bandung**
 
